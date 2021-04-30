@@ -40,11 +40,11 @@
 This module is distributed by NPM and should be installed as one of your project's `devDependencies`:
 
 ```sh
-$ npm install --save-dev eslint-config-hbb
+$ npm install --save-dev prettier-config-hbb
 
 // or
 
-$ yarn add -D eslint-config-hbb
+$ yarn add -D prettier-config-hbb
 ```
 
 ## Usage
