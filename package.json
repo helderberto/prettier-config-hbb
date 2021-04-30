@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-hbb",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Prettier opinionated configurations for projects that I build. Feel free to use it!",
   "main": "index.js",
   "scripts": {},
