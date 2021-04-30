@@ -8,6 +8,7 @@
 [![MIT License][license-badge]][license]
 [![downloads][downloads-badge]][npmtrends]
 <!-- prettier-ignore-end -->
+
 </div>
 
 ---
