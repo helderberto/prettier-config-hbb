@@ -13,6 +13,22 @@
 
 ---
 
+## Table of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Motivation](#motivation)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Override configurations](#override-configurations)
+  - [Script in package.json:](#script-in-packagejson)
+- [Contributing](#contributing)
+- [Bugs and Sugestions](#bugs-and-sugestions)
+- [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Motivation
 
 - Easy to start coding, avoid wasting time configuring for every project
