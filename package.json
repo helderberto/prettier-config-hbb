@@ -1,0 +1,24 @@
+{
+  "name": "prettier-config-hbb",
+  "version": "1.0.0",
+  "description": "Prettier opinionated configurations for projects that I build. Feel free to use it!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helderburato/prettier-config-hbb.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Helder Burato Berto <helder.burato@gmail.com> (https://helderburato.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helderburato/prettier-config-hbb/issues"
+  },
+  "homepage": "https://github.com/helderburato/prettier-config-hbb#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
