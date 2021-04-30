@@ -1,13 +1,13 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>⚙️ prettier-config-hbb</h1>
 
-  <p><strong>prettier-config-hbb is an opinionated configuration</strong> that makes it easy to start your projects..</p>
+  <p><strong>prettier-config-hbb is an opinionated configuration</strong> that makes it easy to start your projects.</p>
 
-  <!-- prettier-ignore-start -->
-  [![version][version-badge]][package]
-  [![MIT License][license-badge]][license]
-  [![downloads][downloads-badge]][npmtrends]
-  <!-- prettier-ignore-end -->
+<!-- prettier-ignore-start -->
+[![version][version-badge]][package]
+[![MIT License][license-badge]][license]
+[![downloads][downloads-badge]][npmtrends]
+<!-- prettier-ignore-end -->
 </div>
 
 ---
