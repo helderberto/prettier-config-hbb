@@ -5,7 +5,7 @@
 
 <!-- prettier-ignore-start -->
 [![version][version-badge]][package]
-[![MIT License][license-badge]][license]
+[![license][license-badge]][license]
 [![downloads][downloads-badge]][npmtrends]
 [![gh-release][gh-release-badge]][gh-release]
 <!-- prettier-ignore-end -->
