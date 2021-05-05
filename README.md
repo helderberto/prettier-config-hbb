@@ -7,6 +7,7 @@
 [![version][version-badge]][package]
 [![MIT License][license-badge]][license]
 [![downloads][downloads-badge]][npmtrends]
+[![gh-release][gh-release-badge]][gh-release]
 <!-- prettier-ignore-end -->
 
 </div>
@@ -93,4 +94,6 @@ Report bugs or do suggestions using the [issues](https://github.com/helderburato
 [npmtrends]: http://www.npmtrends.com/prettier-config-hbb
 [license-badge]: https://img.shields.io/npm/l/prettier-config-hbb.svg?style=flat-square
 [license]: https://github.com/helderburato/prettier-config-hbb/blob/master/LICENSE
+[gh-release]: https://github.com/helderburato/prettier-config-hbb/actions/workflows/release.yml
+[gh-release-badge]: https://github.com/helderburato/prettier-config-hbb/actions/workflows/release.yml/badge.svg
 <!-- prettier-ignore-end -->
