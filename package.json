@@ -4,6 +4,9 @@
   "description": "⚙️ prettier-config-hbb is an opinionated configuration that makes it easy to start your projects.",
   "main": "index.js",
   "scripts": {},
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/helderburato/prettier-config-hbb.git"
