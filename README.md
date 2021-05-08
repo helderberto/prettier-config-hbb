@@ -71,7 +71,7 @@ module.exports = {
 
 ```json
 "scripts": {
-  "format": "prettier \"src/**/*.+(ts|tsx|js|jsx|json|yml|yaml|md|mdx)\" --write"
+  "format": "prettier --write ."
 },
 ```
 
