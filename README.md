@@ -22,8 +22,8 @@
 - [Motivation](#motivation)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Override configurations](#override-configurations)
-  - [Script in package.json:](#script-in-packagejson)
+  - [Override Configurations](#override-configurations)
+  - [Scripts](#scripts)
 - [Contributing](#contributing)
 - [Bugs and Sugestions](#bugs-and-sugestions)
 - [LICENSE](#license)
@@ -56,7 +56,7 @@ Import to your `.prettierrc.js` such as:
 module.exports = require('prettier-config-hbb');
 ```
 
-### Override configurations
+### Override Configurations
 
 ```js
 const config = require('prettier-config-hbb');
@@ -67,7 +67,9 @@ module.exports = {
 };
 ```
 
-### Script in package.json:
+### Scripts
+
+Add the following to your package.json:
 
 ```json
 "scripts": {
