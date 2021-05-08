@@ -2,3 +2,5 @@
 .github
 .editorconfig
 commitling.config.js
+.releaserc.js
+CONTRIBUTING.md
