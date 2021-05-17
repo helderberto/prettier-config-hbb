@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-hbb",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "⚙️ prettier-config-hbb is an opinionated configuration that makes it easy to start your projects.",
   "main": "index.js",
   "scripts": {},
